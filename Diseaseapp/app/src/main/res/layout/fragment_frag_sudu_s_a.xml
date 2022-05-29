@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="수 두"
+        android:textSize="40dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/GPSlocation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="16dp"
+        android:background="#4300BCD4"
+        android:text="위치 값 :  [서울특별시 종로구 보건소] 북 37.58177°, 동 126.96882°"
+        />
+    <TextView
+        android:id="@+id/textDetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textStyle="italic"
+        android:textSize="18dp"
+        android:background="#2FFFEB3B"
+        android:text=" [정의]
+수두(varicella, chickenpox)는 헤르페스 바이러스(herpes virus)의 일종인 수두-대상포진(varicella-zoster) 바이러스로 인해 발생하는 질환입니다. 수두의 원인균은 대상 포진을 일으키는 원인균과 같습니다. 수두에 걸리면 가렵고 물집이 잡히는 피부 발진이 발생합니다. 수두는 다른 사람에게 쉽게 전파됩니다. 수두 환자와 같은 집에 살면, 면역이 없는 이상 무조건 감염됩니다. 누구든지 수두에 걸릴 수 있지만 5~9세에 잘 발생합니다. 주로 늦가을과 초봄에 발생합니다. \n
+[원인]
+수두는 과거에 수두를 앓은 적이 없거나 예방접종을 하지 않은 사람은 누구든지 걸릴 수 있습니다. 수두는 수두 바이러스에 감염된 환자가 기침이나 재채기를 할 때 공기를 통해 전염될 수 있으며, 수두 환자와의 직접 접촉, 수두 물집에서 나오는 진물 등을 통해 원인균이 체내로 들어옴으로써 전염될 수 있습니다. 수두는 전염성이 강하여 수두 환자와 접촉하면 거의 100% 감염됩니다. 수두 백신이 사용되기 전까지 수두는 매우 흔한 발진성 질환 중 하나였습니다. 수두 백신의 접종이 시작된 이후로 환자 수가 줄어들었습니다. "
+        />
+
+</LinearLayout>
