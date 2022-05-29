@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1425" />
+        <entry key="app/src/main/res/layout/activity_disease_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_disease_sudu.xml" value="0.13229166666666667" />
+        <entry key="app/src/main/res/layout/activity_disease_sudug.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_disease_sudus.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2682291666666667" />
+        <entry key="app/src/main/res/layout/customlist.xml" value="0.32647552490234377" />
+        <entry key="app/src/main/res/layout/frag_monday.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/frag_sudua.xml" value="0.30246913580246915" />
+        <entry key="app/src/main/res/layout/frag_sudub.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/frag_suduc.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/frag_tuesday.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_sudu_g_a.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_sudu_g_b.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_sudu_g_c.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_sudu_s_a.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_frag_sudu_s_b.xml" value="0.8284313725490197" />
+        <entry key="app/src/main/res/layout/fragment_frag_sudu_s_c.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
